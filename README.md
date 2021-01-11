@@ -1,16 +1,21 @@
-### Hi there 👋
+<div style="text-align: center;">
 
-<!--
-**shaunyoung11/shaunyoung11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, there 👋
 
-Here are some ideas to get you started:
+💻 [Blog](https://shaunyoung.cn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Shaun Young.
+_Software developer_.
+I'm interested in Frontend.
+
+# Interests 🎉
+
+I love **Basketball** 🏀.
+Sometimes I play the guitar 🎸.
+I like running 🏃‍.
+
+# Repos 👇
+
+<img  src="https://github-readme-stats.vercel.app/api?username=shaunyoung11&show_icons=true&theme=radical">
+
+</div>
