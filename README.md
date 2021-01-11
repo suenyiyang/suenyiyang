@@ -4,14 +4,14 @@
 
 💻 [Blog](https://shaunyoung.cn)
 
-I'm Shaun Young.
-_Software developer_.
+I'm Shaun Young.  
+_Software developer_.  
 I'm interested in Frontend.
 
 # Interests 🎉
 
-I love **Basketball** 🏀.
-Sometimes I play the guitar 🎸.
+I love **Basketball** 🏀.  
+Sometimes I play the guitar 🎸.  
 I like running 🏃‍.
 
 # Repos 👇
