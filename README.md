@@ -16,6 +16,6 @@ I like running 🏃‍.
 
 # Repos 👇
 
-<img  src="https://github-readme-stats.vercel.app/api?username=syy11955&show_icons=true&theme=radical">
+<img  src="https://github-readme-stats.vercel.app/api?username=syyCN&show_icons=true&theme=radical">
 
 </div>
