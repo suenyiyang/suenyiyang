@@ -22,8 +22,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=syy11cn)
 
----
-
 ## Introduction :raised_hands:
 
 Student of [@UESTC](https://github.com/uestcer). :school:
