@@ -1,57 +1,22 @@
-# Hi, this is Yiyang Sun. :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=syy11cn)
+## Hi, this is Yiyang Sun. :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=syy11cn)
 
-- :school: Student of [@UESTC](https://github.com/uestcer).
-- :man_technologist: Major in Software Engineering.
-- :dart: Work hard to be a good frontend developer.
-- :heart: Love open source spirit.
-- :email: Reach me at: [![Outlook](https://img.shields.io/badge/-Outlook-0078d4?style=for-the-badge&logo=mail.ru)](mailto:syy11cn@outlook.com).
+### Introduction
 
-<p>
+- :school: 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝒐𝒇 [@𝑼𝑬𝑺𝑻𝑪](https://github.com/uestcer).
+- :man_technologist: 𝑴𝒂𝒋𝒐𝒓 𝒊𝒏 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈.
+- :heart: 𝑳𝒐𝒗𝒆 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒔𝒑𝒊𝒓𝒊𝒕.
 
-[![Juejin](https://img.shields.io/badge/juejin-%E5%AD%99%E8%BD%B6%E6%89%AC-1e80ff?style=for-the-badge&logo=bytedance)](https://juejin.cn/user/4010632618185038)
+### Orientation
 
+- :dart: 𝑾𝒐𝒓𝒌 𝒉𝒂𝒓𝒅 𝒕𝒐 𝒃𝒆 𝒂 𝒈𝒐𝒐𝒅 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.
 
-</p>
+### Contact
 
-<p>
+- :email: 𝑹𝒆𝒂𝒄𝒉 𝒎𝒆 𝒂𝒕 [![Outlook](https://img.shields.io/badge/-Outlook-0078d4?logo=mail.ru)](mailto:syy11cn@outlook.com).
+- :house: [𝑩𝒍𝒐𝒈](https://blog.syy11.cn/) • [𝑷𝒓𝒐𝒇𝒊𝒍𝒆](https://syy11.cn/) • [𝑱𝒖𝒆𝒋𝒊𝒏](https://juejin.cn/user/4010632618185038) • [𝑩𝒊𝒍𝒊𝒃𝒊𝒍𝒊](https://space.bilibili.com/439734028)
 
-[![Website](https://img.shields.io/badge/personal%20website-syy11.cn-b860ff?style=for-the-badge&logo=html5&logoColor=white&labelColor=red)](https://syy11.cn)
+### Github
 
-</p>
-
-## Orientation :dart:
-
-I love coding. :heart:
-
-I love Front End technologys. :heart:
-
-<p>
-
-![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-
-</p>
-
-<p>
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
-![React](https://img.shields.io/badge/-React-282c34?logo=react)
-![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
-
-</p>
-
-<p>
-
-![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
-![Rollup](https://img.shields.io/badge/-Rollup-ef3335?logo=rollup.js&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
-
-</p>
-
-## Analysis :point_down:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syy11cn&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syy11cn&show_icons=true)
 
 ![](https://hit.yhype.me/github/profile?user_id=57290456)
