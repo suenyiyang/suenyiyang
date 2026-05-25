@@ -1,3 +1,4 @@
-Frontend developer. :wave:
+Frontend developer. Playing with agents. :wave:
 
-New GitHub profile in progress...
+- https://suenyiyang.com
+- https://x.com/suenyiyang
